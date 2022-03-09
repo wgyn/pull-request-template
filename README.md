@@ -1,0 +1,1 @@
+A pull request template that used at [Assembled](https://github.com/assembledhq). To use it yourself, copy the file and follow the instructions [here](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository).
